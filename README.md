@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Guilherme Brandalise
+- 🚩 I'm brazilian
+- 📚 I’m currently learning Flutter
+- 📄 I still see myself as a Junior, but i have a strong will to learn
+- 💞️ I’m looking to collaborate on Flutter's projects
+- 📫 Contact: Guisb37@gmail.com
