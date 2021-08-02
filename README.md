@@ -1,5 +1,28 @@
-- 👋 Hi, I’m Guilherme Brandalise
-- 🚩 I'm brazilian
-- 📚 I’m currently learning Flutter
-- 📄 I still see myself as a Junior, but i have a strong will to learn
-- 📫 Contact: Guisb37@gmail.com
+## Hey, i'm Guilherme Brandalise welcome to my GitHub
+
+🎒 I'm a software engineering student
+
+💻 I have a technical degree in IT
+
+📚 Studying Flutter in my spare time
+
+🎮 I love playing video games
+
+**Interested in learning:**
+
+![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
+![Dart](https://img.shields.io/badge/-Dart-black?logo=Dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?logo=Cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=white)
+
+<div>
+ <a href="https://github.com/guibrandalisee">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibrandalisee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=141E30&title_color=ffc300&border-radius=5&icon_color=9a031e&text_color=fff"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrandalisee&layout=compact&langs_count=7&theme=dark&bg_color=141E30&title_color=ffc300&border-radius=5&text_color=fff"/>
+</div>
+
+<div> 
+ <a href = "mailto:guisb37@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/guibrandalisee/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+ <img src="https://user-images.githubusercontent.com/41174096/127936224-7e49379e-fdaf-4068-bc55-bf1e0a543c5b.png" height="130">
