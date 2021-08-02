@@ -1,5 +1,7 @@
 ## Hey, i'm Guilherme Brandalise welcome to my GitHub
 
+🌎 I'm Brazilian and I currently live in Brazil
+
 🎒 I'm a software engineering student
 
 💻 I have a technical degree in IT
