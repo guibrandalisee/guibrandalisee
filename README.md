@@ -16,6 +16,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-black?logo=Dart&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?logo=Cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=white)
+![JS](https://img.shields.io/badge/-JS-black?logo=JavaScript&logoColor=white)
 
 <div>
  <a href="https://github.com/guibrandalisee">
