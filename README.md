@@ -1,12 +1,10 @@
 ## Hey, i'm Guilherme Brandalise welcome to my GitHub
 
-🌎 I'm Brazilian and I currently live in Brazil
+🌎 I'm Brazilian and I currently live in Brazil, but i'm up to work remotely in other countries
 
 🎒 I'm a software engineering student
 
 💻 I have a technical degree in IT
-
-📚 Studying Flutter in my spare time
 
 🎮 I love playing video games
 
@@ -14,9 +12,9 @@
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-black?logo=Dart&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-black?logo=Cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&logoColor=white)
 ![JS](https://img.shields.io/badge/-JS-black?logo=JavaScript&logoColor=white)
+![GO](https://img.shields.io/badge/-GO%20Lang-black?logo=GO&logoColor=white)
 
 <div>
  <a href="https://github.com/guibrandalisee">
