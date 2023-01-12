@@ -18,8 +18,8 @@
 
 <div>
  <a href="https://github.com/guibrandalisee">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guibrandalisee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=141E30&title_color=ffc300&border-radius=5&icon_color=9a031e&text_color=fff&hide_border=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guibrandalisee&layout=compact&langs_count=7&theme=dark&bg_color=141E30&title_color=ffc300&border-radius=5&text_color=fff&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guibrandalisee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=141E30&title_color=ffc300&border-radius=5&icon_color=9a031e&text_color=fff&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guibrandalisee&layout=compact&langs_count=7&theme=dark&bg_color=141E30&title_color=ffc300&border-radius=5&text_color=fff&hide_border=true"/>
 </div>
 
 <div> 
